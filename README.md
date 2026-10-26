@@ -93,3 +93,5 @@ These endpoints are illustrative. The actual behavior and status codes depend on
 
 # SDET tip: 
 When testing an HTTP method, validate the status code, response body, headers, resource changes, authorization, and behavior when the same request is repeated.
+
+![alt text](image.png)
